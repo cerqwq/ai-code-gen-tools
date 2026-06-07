@@ -4,5 +4,8 @@ __pycache__/
 *.db
 *.log
 .env
+*.egg-info/
+dist/
+build/
 .DS_Store
 Thumbs.db
